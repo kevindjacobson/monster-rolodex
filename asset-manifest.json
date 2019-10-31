@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monster-rolodex/static/css/main.fb6b1e4e.chunk.css",
+    "main.js": "/monster-rolodex/static/js/main.ef4528ad.chunk.js",
+    "main.js.map": "/monster-rolodex/static/js/main.ef4528ad.chunk.js.map",
+    "runtime-main.js": "/monster-rolodex/static/js/runtime-main.f5a7070a.js",
+    "runtime-main.js.map": "/monster-rolodex/static/js/runtime-main.f5a7070a.js.map",
+    "static/js/2.d9a63a23.chunk.js": "/monster-rolodex/static/js/2.d9a63a23.chunk.js",
+    "static/js/2.d9a63a23.chunk.js.map": "/monster-rolodex/static/js/2.d9a63a23.chunk.js.map",
+    "index.html": "/monster-rolodex/index.html",
+    "precache-manifest.4de7a3fa8d0dab38517b0f47856401f9.js": "/monster-rolodex/precache-manifest.4de7a3fa8d0dab38517b0f47856401f9.js",
+    "service-worker.js": "/monster-rolodex/service-worker.js",
+    "static/css/main.fb6b1e4e.chunk.css.map": "/monster-rolodex/static/css/main.fb6b1e4e.chunk.css.map"
+  }
+}
